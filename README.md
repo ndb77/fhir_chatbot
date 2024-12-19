@@ -13,7 +13,8 @@ The AI model is currently set to use the InternLM2-5-20B-Chat model, interfacing
 
  IternLM was chosen over Llama 3 because it has less trouble accepting medical instructions without hitting its internal guardrails.
 
-### 2. `npm install --legacy-peer-deps` install the dependencies
+### 2. `npm install --legacy-peer-deps`
+Navigate to the ./simple-chat-app/ and run `npm install --legacy-peer-deps` to install the dependencies.
 
 ### 3. `npm start` to run the application
 
